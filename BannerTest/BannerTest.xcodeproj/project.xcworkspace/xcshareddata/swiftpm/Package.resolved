@@ -1,0 +1,15 @@
+{
+  "originHash" : "439ea4b22c9b0e7bf30c6771125d71b93825258ed1cff28e705b3f1dc66218b6",
+  "pins" : [
+    {
+      "identity" : "pages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nachonavarro/Pages",
+      "state" : {
+        "revision" : "4cdbe4ff2f9ddbfda8cf0376a2acb678a1a0a0a2",
+        "version" : "0.1.5"
+      }
+    }
+  ],
+  "version" : 3
+}
